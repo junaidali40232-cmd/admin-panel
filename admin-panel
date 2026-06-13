@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/junaidali40232-cmd/admin-panel.git
-git add .
-git commit -m "Initial commit - Admin Control Panel"
-git branch -M main
-git push -u origin main
